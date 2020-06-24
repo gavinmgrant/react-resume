@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+  }
+
+h1, h2, h3 {
+    color: black;
+}
+
+  body {
+    font-family: 'Hind Siliguri', sans-serif;
+    color: #444444;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10%;
+    padding-right: 10%;
+    max-width: 1000px;
+}
+
+ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+li {
+    font-style: normal;
+}
+
+footer {
+    margin-bottom: 50px;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    font-weight: bold;
+    text-decoration: none;
+}
